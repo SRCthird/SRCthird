@@ -15,13 +15,6 @@ I'm Stephen, I'm passionate in **Database Engineering** with additional interest
 - Enhancing my skills in Microservices Architecture with gRPC.
 - Venturing into the creation of basic AI's with PyTorch and TensorFlow.
 
-## How to Reach Me
-
--  [LinkedIn](https://linkedin.com/in/your_linkedin_username)
--  [Twitter](https://twitter.com/your_twitter_handle)
--  [Email](mailto:youremail@example.com)
--  [Portfolio](http://your-portfolio-link.com)
-
 ## GitHub Stats
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SRCthird&count_private=true&show_icons=true&theme=radical)
