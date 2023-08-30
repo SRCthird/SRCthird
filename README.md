@@ -4,15 +4,18 @@ I'm Stephen, I'm passionate in **Database Engineering** with additional interest
 
 ## Skills & Expertise
 
-- **Databases**: PostgreSQL, MySQL, MongoDB, Cassandra
-- **Backend**: Flask, Node.js, Express.js, Django 
-- **Frontend**: React.js, Vue.js, Angular, HTML+CSS, Bootstrap
-- **Others**: Docker, Kubernetes, Nginx, Apache
+|Skills                 |Experiance                              |
+|         :----         |                  :----                 |
+|**Databases**          | PostgreSQL, MySQL, MongoDB, Cassandra  |
+|**Data Visualization** | Power BI, Tableau, D3.js, Matplotlib   |
+|**Backend**            | Flask, Node.js, Django, ASP.NET        |
+|**Frontend**           | React.js, Vue.js, Bootstrap, Chakra-ui |
+|**Others**             | Docker, Kubernetes, Nginx, Apache      |
 
 ## Current Learning Goals
 
 - Delving deeper into Graph Databases and exploring Neo4j.
-- Enhancing my skills in Microservices Architecture with gRPC.
+- Gaining futher understanding of developing in the Power Platforms.
 - Venturing into the creation of basic AI's with PyTorch and TensorFlow.
 
 ## GitHub Stats
@@ -23,10 +26,12 @@ I'm Stephen, I'm passionate in **Database Engineering** with additional interest
 
 ## Work & Projects
 
-1. **HTTP-SQL-Export**: A node.js program that pulls recusive data from a database only accessible by HTTP requests. [🔗](https://github.com/SRCthird/tvmc-database)  <br />
-  [![Node][Node.js]][Node-url]
-2. **React-Dashboard**: A React.js+Typescript dashboard that uses Flask as a backend api and Chacra.  [🔗](https://github.com/SRCthird/react-production-dashboard)  <br />
+1. **React-Dashboard**: A React.js+Typescript dashboard that uses Flask as a backend api and Chacra.  [🔗](https://github.com/SRCthird/react-production-dashboard)  <br />
   [![React][React.js]][React-url] [![Chakra][Chakra-ui]][Chakra-url] [![Flask][Flask.com]][Flask-url]
+2. **Vorne-Database**: An automated Node.js program that pulls available data from multiple operations and compiles them in one MySQL server. [🔗](https://github.com/SRCthird/vorne-database)  <br />
+  [![Node][Node.js]][Node-url]
+3. **Incog-Proxy**: A Node.js program that proxies urls into private MSEdge windows. [🔗](https://github.com/SRCthird/vorne-database)  <br />
+  [![Node][Node.js]][Node-url]
 
 [Flask.com]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
