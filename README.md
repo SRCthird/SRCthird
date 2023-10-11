@@ -14,7 +14,7 @@ I'm Stephen, I'm passionate in **Database Engineering** with additional interest
 
 ## Current Learning Goals
 
-- Delving deeper into Graph Databases and exploring Neo4j.
+- Delving deeper into the world of HTMX.
 - Gaining futher understanding of developing in the Power Platforms.
 - Venturing into the creation of basic AI's with PyTorch and TensorFlow.
 
