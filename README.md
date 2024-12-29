@@ -1,22 +1,22 @@
-# Stephen Chryn
+# Stevie Chryn
 
-I'm Stephen, I'm passionate in **Database Engineering** with additional interests in **Full Stack Web Development**. I'm on a mission to design robust, user/developer friendly databases as well as craft scalable web applications.
+I'm Stevie, I like to consider myself a Generalist Programmer. I have a passion for solving any and all problems and exploring the possibilities of programming and automation. I spend much of my time focusing on many things at once, from web development and data science to scripting and automation, showing tons of versatility in my skill set and a love for learning.
 
-## Skills & Expertise
+## My Goto Skills and Experiances
 
-|Skills                 |Experiance                              |
-|         :----         |                  :----                 |
-|**Databases**          | PostgreSQL, MySQL, MongoDB, Cassandra  |
-|**Data Visualization** | Power BI, Tableau, D3.js, Matplotlib   |
-|**Backend**            | Flask, Node.js, Django, ASP.NET        |
-|**Frontend**           | React.js, Vue.js, Bootstrap, Chakra-ui |
-|**Others**             | Docker, Kubernetes, Nginx, Apache      |
+|Skills                 |Experiance                               |
+|         :----         |                  :----                  |
+|**Databases**          | PostgreSQL, MySQL                       |
+|**Data Visualization** | Power BI, Matplotlib, Graph.js          |
+|**Backend**            | Flask, express.js, Django, ASP.NET      |
+|**Frontend**           | React.js, Vue.js, good ol' fasion js 😊 |
+|**Hosting**            | Arch Linux, Nginx, Apache               |
 
 ## Current Learning Goals
 
-- Delving deeper into the world of HTMX.
-- Gaining futher understanding of developing in the Power Platforms.
-- Venturing into the creation of basic AI's with PyTorch and TensorFlow.
+- Delving deeper into the world of AI - understanding when it should and shouldn't be used.
+- Gaining futher understanding of data mining using PLC's and Modbus servers.
+- Venturing into the automation of every day activities.
 
 ## GitHub Stats
 
@@ -24,16 +24,29 @@ I'm Stephen, I'm passionate in **Database Engineering** with additional interest
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRCthird&layout=compact&theme=radical)
 
-## Work & Projects
+## 🛠️ Projects
 
-1. **Operations-Nexus**: A React.js+Typescript dashboard that uses Chakra UI and Node.JS as a backend api.  [🔗](https://github.com/SRCthird/operations-nexus)  <br />
-  [![React][React.js]][React-url] [![Chakra][Chakra-ui]][Chakra-url] [![Node][Node.js]][Node-url]
-2. **Vorne-Auto-Exporter**: An automated Node.js program that pulls available data from multiple operations and compiles them in one MySQL server. [🔗](https://github.com/SRCthird/vorne-auto-exporter)  <br />
-  [![Node][Node.js]][Node-url]
-3. **Incog-Proxy**: A Node.js program that proxies urls into private MSEdge windows. [🔗](https://github.com/SRCthird/Incog-Proxy)  <br />
-  [![Node][Node.js]][Node-url]
-4. **Private-Proxy**: A C++ recreation of Incog-Proxy that proxies urls through MSEdge.  [🔗](https://github.com/SRCthird/Incog-Proxy)  <br />
-  [![C++][C++.app]][C++-url]
+### 🌐 Full-Stack Applications
+- **[Aeternum Stock](https://github.com/SRCthird/aeternum-stock-web)**: A web app that simplifies inventory managment for people and companies with small inventory needs using Django.
+- **[HTMX Time](https://github.com/SRCthird/htmx-time)**: Just a silly little app designed to understand the workings of HTMX.
+
+### 📊 Data Analysis and Automation
+- **[AVEVA Py Api](https://github.com/SRCthird/aveva-py-api)**: An api to interface with AVEVA PI's data archive through Python.
+- **[Vorne Auto Exporter](https://github.com/SRCthird/vorne-auto-exporter)**: A Javascript project meant to automate the archival of manufacturing data captured by the Vorne Industries system.
+
+### 🔧 Open-Source & Contributions
+- Contributed to **[AVEVA/sample-pi_web_api-common_actions-python](https://github.com/SRCthird/sample-pi_web_api-common_actions-python)**: Added Microsofts NTLM authentication.
+- Contributed to **[eoh-bse/minintro.nvim](https://github.com/SRCthird/minintro.nvim)**: Made it mode modular, fixed some bugs and added some more configuration.
+- Accepting contribution to **[GameBrigde](https://github.com/SRCthird/GameBridge)** - console manager designed for remote access to game servers.
+
+## 📚 What I'm Learning
+- 🧠 Currently diving into **Rust** and **WebAssembly** for super high-performance applications.
+- 💡 Exploring basic concepts in **machine learning** and **AI-powered automation**.
+
+## 📫 Let's Connect!
+- 🟦 [Facebook](https://www.facebook.com/stephen.chryn)
+- 👨‍💻 [DEV.TO](https://dev.to/srcthird)
+- 📧 Email: [srcthird@gmail.com](mailto:srcthird@gmail.com)
 
 [C++.app]: https://img.shields.io/badge/-c++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black
 [C++-url]: https://learn.microsoft.com/en-us/cpp/?view=msvc-170
