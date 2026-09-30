@@ -1,22 +1,63 @@
-# Stevie Chryn
+# Hi, I'm Stevie!
 
-I'm Stevie, I like to consider myself a Generalist Programmer. I have a passion for solving any and all problems and exploring the possibilities of programming and automation. I spend much of my time focusing on many things at once, from web development and data science to scripting and automation, showing tons of versatility in my skill set and a love for learning.
+## OT Engineer · Data Systems Builder · Generalist Programmer
 
-## My Goto Skills and Experiances
+I build practical software for the data between **machines and people**.
 
-|Skills                 |Experiance                               |
-|         :----         |                  :----                  |
-|**Databases**          | PostgreSQL, MySQL                       |
-|**Data Visualization** | Power BI, Matplotlib, Graph.js          |
-|**Backend**            | Flask, express.js, Django, ASP.NET      |
-|**Frontend**           | React.js, Vue.js, good ol' fasion js 😊 |
-|**Hosting**            | Arch Linux, Nginx, Apache               |
+My focus is operational technology (OT), manufacturing data, and the systems that turn plant-floor signals into information teams can trust and act on. I enjoy working across the stack, from industrial data collection and APIs to databases, dashboards, automation, and the interfaces people use every day.
 
-## Current Learning Goals
+> **My guiding idea:** reliable operations start with reliable data.
 
-- Delving deeper into the world of AI - understanding when it should and shouldn't be used.
-- Gaining futher understanding of data mining using PLC's and Modbus servers.
-- Venturing into the automation of every day activities.
+## What I work on
+
+- **Industrial data systems**: collecting, transforming, and serving data from manufacturing environments
+- **OT / IT integration**: connecting plant-floor systems with modern applications and analytics platforms
+- **Data visualization**: making operational metrics clear on dashboards and manufacturing-floor displays
+- **Automation**: removing repetitive work and creating dependable, repeatable workflows
+- **Full-stack applications**: building the frontend, backend, and data layer needed to make systems useful
+- **Continuous learning**: exploring AI, machine learning, Rust, WebAssembly, PLC data, and Modbus
+
+## Featured projects
+
+### [ethernetip-emulator](https://github.com/SRCthird/ethernetip-emulator)
+
+An industrial networking project focused on emulating Ethernet/IP behavior for development and qualifying new connections using a digital twin. It reflects my interest in building practical tools around OT protocols and creating safer ways to experiment with industrial communication workflows.
+
+### [AVEVA Py API](https://github.com/SRCthird/aveva-py-api)
+
+A Python API for working with the AVEVA PI Web API, an exploration of making industrial time-series data more accessible to Python applications.
+
+### [Vorne Auto Exporter](https://github.com/SRCthird/vorne-auto-exporter)
+
+A data collection and formatting tool for moving data from a Vorne XL database into MySQL. The project includes schema-driven processing, data transformation, and both scheduled and manual refresh workflows.
+
+### [Aeternum Stock](https://github.com/SRCthird/aeternum-stock-web)
+
+A Django-based inventory management application for small teams and organizations, focused on keeping operational information organized and accessible.
+
+## Technical toolkit
+
+| Area | Technologies |
+| --- | --- |
+| **OT & industrial data** | AVEVA PI Web API, Vorne XL, PLC data, Modbus |
+| **Languages** | Python, JavaScript, TypeScript, C#, C++, Rust |
+| **Backend** | Django, Flask, NestJS, Express.js, ASP.NET |
+| **Frontend** | React, Vue.js, HTMX |
+| **Data & visualization** | PostgreSQL, MySQL, Power BI, Matplotlib, Graph.js |
+| **Infrastructure** | Linux, Nginx, Apache, Azure |
+
+## Other open-source contributions
+
+- Added Microsoft NTLM authentication to [AVEVA's PI Web API example actions](https://github.com/SRCthird/sample-pi_web_api-common_actions-python).
+- Improved modularity, configuration, and bug fixes in [minintro.nvim](https://github.com/SRCthird/minintro.nvim).
+- Building [GameBridge](https://github.com/SRCthird/GameBridge), a console manager for remote game-server access.
+
+## Currently learning
+
+- Rust and WebAssembly for high-performance applications
+- Machine learning fundamentals and responsible AI automation
+- Deeper PLC and Modbus data-mining workflows
+- New ways to automate everyday engineering and operations work
 
 ## GitHub Stats
 
@@ -24,51 +65,11 @@ I'm Stevie, I like to consider myself a Generalist Programmer. I have a passion 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SRCthird&layout=compact&theme=radical)
 
-## 🛠️ Projects
+## Let's connect
 
-### 🌐 Full-Stack Applications
-- **[Aeternum Stock](https://github.com/SRCthird/aeternum-stock-web)**: A web app that simplifies inventory managment for people and companies with small inventory needs using Django.
-- **[HTMX Time](https://github.com/SRCthird/htmx-time)**: Just a silly little app designed to understand the workings of HTMX.
+- [GitHub](https://github.com/SRCthird)
+- [DEV Community](https://dev.to/srcthird)
+- [BuyMeCoffee](https://buymecoffee.com/frigidambiance)
+- [Email](mailto:srcthird@gmail.com)
 
-### 📊 Data Analysis and Automation
-- **[AVEVA Py Api](https://github.com/SRCthird/aveva-py-api)**: An api to interface with AVEVA PI's data archive through Python.
-- **[Vorne Auto Exporter](https://github.com/SRCthird/vorne-auto-exporter)**: A Javascript project meant to automate the archival of manufacturing data captured by the Vorne Industries system.
-
-### 🔧 Open-Source & Contributions
-- Contributed to **[AVEVA/sample-pi_web_api-common_actions-python](https://github.com/SRCthird/sample-pi_web_api-common_actions-python)**: Added Microsofts NTLM authentication.
-- Contributed to **[eoh-bse/minintro.nvim](https://github.com/SRCthird/minintro.nvim)**: Made it mode modular, fixed some bugs and added some more configuration.
-- Accepting contribution to **[GameBrigde](https://github.com/SRCthird/GameBridge)** - console manager designed for remote access to game servers.
-
-## 📚 What I'm Learning
-- 🧠 Currently diving into **Rust** and **WebAssembly** for super high-performance applications.
-- 💡 Exploring basic concepts in **machine learning** and **AI-powered automation**.
-
-## 📫 Let's Connect!
-- 🟦 [Facebook](https://www.facebook.com/stephen.chryn)
-- 👨‍💻 [DEV.TO](https://dev.to/srcthird)
-- 📧 Email: [srcthird@gmail.com](mailto:srcthird@gmail.com)
-
-[C++.app]: https://img.shields.io/badge/-c++-FFFFFF?style=for-the-badge&logo=c%2B%2B&logoColor=black
-[C++-url]: https://learn.microsoft.com/en-us/cpp/?view=msvc-170
-[Flask.com]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
-[Flask-url]: https://flask.palletsprojects.com/en/2.3.x/
-[Chakra-ui]: https://img.shields.io/badge/Chakra%20UI-3DD6D0?style=for-the-badge&logo=chakraui&logoColor=white
-[Chakra-url]: https://chakra-ui.com/
-[Node.js]: https://img.shields.io/badge/node.js-8CC84B?style=for-the-badge&logo=nodedotjs&logoColor=white
-[Node-url]: https://nodejs.org/en
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+Thanks for stopping by! Feel free to explore the repositories and see what I'm building.
